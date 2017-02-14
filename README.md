@@ -28,3 +28,5 @@ SqlCallUtil-调用Oracle数据库中的通用函数方法
 
 XMLConverter-XML转换器
 
+JaxbObjectAndXmlUtil-JAXB互换实体和XMl工具
+
